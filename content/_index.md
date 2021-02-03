@@ -1,6 +1,6 @@
 ---
-title: "STA 199: Intro to Data Science"
-description: "Intro to data science and statistical thinking. Learn to explore, visualize, and analyze data to understand natural phenomena, investigate patterns, model outcomes, and make predictions, and do so in a reproducible and shareable manner. Gain experience in data wrangling and munging, exploratory data analysis, predictive modeling, and data visualization, and effective communication of results. Work on problems and case studies inspired by and based on real-world questions and data. The course will focus on the R statistical computing language."
+title: "SPP 608: Introduction to Statistics 2021"
+description: "This is an introductory statistical course designed for public policy students to analyze and solve statistical problems in the real world. The goal of this course is to familiarize students with a number of statistical techniques commonly used for analyzing different types of policy data. Throughout the course, it emphasizes two crucial aspects of students’ learning: 1) statistical analysis for policy data, and 2) presentation and interpretation of statistical results. While the course will cover some basic theory behind the majority of the statistical methods, it will focus mostly on their applications. Students will learn when each statistical test should be used and the assumptions behind each test. In addition, students will learn how to describe and interpret the output of the analyses that they run.  The free R open source software will be used for this course for conducting statistical analysis and data visualization."
 markup: "mmark"
 ---
 
@@ -8,49 +8,67 @@ markup: "mmark"
 
 #### Lectures
 
-<font color="#6CA0DC"><i class="fas fa-university fa-lg"></i></font> &nbsp; French 2231 
+<font color="#6CA0DC"><i class="fas fa-university fa-lg"></i></font> &nbsp; Zoom!
 
-<font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; Mon and Wed 3:05 - 4:20
+<font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; Thur 5:30 - 7:00pm
 
 #### Labs
 
-<font color="#6CA0DC"><i class="fas fa-university fa-lg"></i></font> &nbsp; Soc Sci 311
-
-<font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; Thur 1:25 - 2:40
-&nbsp;&nbsp; <i>or</i> &nbsp;&nbsp;
-<font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; Thur 3:05 - 4:20
-&nbsp;&nbsp; <i>or</i> &nbsp;&nbsp;
-<font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; Thur 4:40 - 5:55
+<font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; Thur 4-5:00 (optional)
 
 ### Teaching team and office hours 
 
 {.table .table-condensed .table-striped .text-left}
 <span></span>     | <span></span>     | <span></span>    | <span></span>    |  <span></span>      
 ------------------|-------------------|------------------|------------------|------------------ 
-Instructor        | [Mine Çetinkaya-Rundel](http://stat.duke.edu/~mc301/) | <a href="mailto:mine@stat.duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/mine-cetinkaya-rundel" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/minebocek" title="Twitter"><i class="fa fa-twitter"></i></a> | Tue 11:00 - 12:30 and Thur 10:00 - 11:30 | Old Chem 213
-TAs               | [Peter Hase](https://www.linkedin.com/in/peter-hase-8092a6b9/) | <a href="mailto:peter.hase@duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/peterbhase" title="GitHub"><i class="fa fa-github"></i></a> | Sun 1:00 - 3:00 | Old Chem 211A
-                  | [Walker Harrison](https://www.linkedin.com/in/walker-harrison-11a36b6b/) | <a href="mailto:walker.harrison@duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/WalkerHarrison" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/WalkWearsCrocs" title="Twitter"><i class="fa fa-twitter"></i></a> | Tue 10:00 - 11:00 and 1:30-2:30 | Old Chem 211A
-                  | [Gary Larson](http://garylarson.weebly.com/) | <a href="mailto:gary.larson@duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/garylarson" title="GitHub"><i class="fa fa-github"></i></a> | Mon 12:00 - 2:00 | Old Chem 211A
-                  | [Sarah Sibley](https://www.linkedin.com/in/sarah-sibley-3bb171ba/) | <a href="mailto:sarah.sibley@duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/scsibs" title="GitHub"><i class="fa fa-github"></i></a> | Sat 12:00 - 2:00 | Old Chem 211A
-                  
+Instructor        | [Viviana Chiu Sik Wu](https://connectivecommons.cc/) | <a href="mailto:vivianachius@umass.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://twitter.com/vivianacswu" title="Twitter"><i class="fa fa-twitter"></i></a> | Tue 11:00 - 12:30 and Thur 10:00 - 11:30 | Thompson 628
+TA                | [Adrienne Nunez](https://www.linkedin.com/in/peter-hase-8092a6b9/) | <a href="mailto:amnunez@umass.edu" title="email">
+            
 
-### Texts
+### Recommended Readings
 
-All texts are freely available online:
+There will be no required textbook for this class; however, here are some textbooks and resources for your reference.   
 
 {.table .table-condensed .table-striped .text-left}
  <span></span>     | <span></span> | <span></span> 
 -----------|---------------------------------|----------------------------------
-[R for Data Science](http://r4ds.had.co.nz/) | Grolemund, Wickham | O'Reilly, 1st edition, 2016
-[OpenIntro Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os) | Diez, Barr, Çetinkaya-Rundel | CreateSpace, 3rd Edition, 2015
-OpenIntro Data Science (link TBA) | Çetinkaya-Rundel | In progress
+[R for Data Science](http://r4ds.had.co.nz/) | Grolemund & Wickham | O'Reilly, 1st edition, 2016
+[R cookbook](https://rc2e.com/index.html) | Long & Teetor | O'Reilly Media, 2019 
+[Introduction to Econometrics with R](https://www.econometrics-with-r.org/ITER.pdf) | Hanck et al. | 2019
+[R for social and behavioral science statistics](https://www.amazon.com/dp/1544344023/ref=cm_sw_em_r_mt_dp_8qU2FbKQT9S75?_encoding=UTF8&psc=1) | Wickham & Grolemund |  SAGE Publications, 2020
 
-### Materials
+**Overview of Class Design** 
 
-You should have access to a laptop and bring it to every class, fully charged.
+This class will have a combination of asynchronous lectures and synchronous discussion and R simulations which will be pre-recorded. In the synchronous session, we will tentatively meet every Thursday at 5:30 pm to do a quick overview of lectures, work through R and review lab assignments in real time. There will be weekly lab assignments. Students will partner up and work on a data analysis project throughout the semester. Methods covered in this course include exploratory data analysis, correlation and bivariate analysis, linear regression, panel data regression, and probit/logistic regression. Collective and reflective learning will be the key cornerstone for excelling in this class! 
 
-### Green Classroom
+**Special Note about Learning in a Pandemic** 
 
-<img style="float: left;" src="/img/DukeGreenClassroomCertification-Logo.png">
-This course has achieved Duke’s Green Classroom Certification. The certification indicates that the faculty member teaching this course has taken significant steps to green the delivery of this course. Your faculty member has completed a checklist indicating their common practices in areas of this course that have an environmental impact, such as paper and energy consumption. Some common practices implemented by faculty to reduce the environmental impact of their course include allowing electronic submission of assignments, providing online readings and turning off lights and electronics in the classroom when they are not in use. The eco-friendly aspects of course delivery may vary by faculty, by course and throughout the semester. Learn more at [http://sustainability.duke.edu/action/certifications/classroom/index.php](http://sustainability.duke.edu/action/certifications/classroom/index.php).
+>I am committed to ensuring your successful learning in this class. Please talk to me and ask questions during or after class time. I commit to being thoughtful and empathetic towards each of you as you navigate the current circumstances and your personal situations. I will also be open, fair, professional, and passionate in teaching this class. In turn, I ask that you exercise the same consideration and compassion towards your classmates, TAs and GAs, UMass Amherst staff, and your professors. We are all moving through this differently, but together.
+
+**Course Values**  
+
+* *Empathy*: Care and respect for each other and be empathetic and compassionate. 
+* *Openness*: Be proactive to ask questions. Be willing to learn by trial and error. 
+* *Integrity*: Take responsibilities for your own and team work. Be fair and trustworthy. 
+* *Professionalism*: Have high standards and solid preparation for the class and the team. 
+* *Perseverance and passion*: Actively engage and participate to strive for your own learning goals. 
+
+***
+
+**Required Software** 
+
+*Installing R & R Studio* 
+
+You will need to install R (the free and open source statistical computing language used in this course) and R Studio (the graphical user interface for R) in advance before the first class.  
+
+*	Install [R software](https://cran.rstudio.com/)  
+*	Install [R Studio Desktop](https://cran.rstudio.com/)  
+*	Join the class space on R Studio Cloud [Invited Only]  
+
+There are infinitely many new packages available for us to use. It is highly recommended to use the free RStudio, an interface for writing R documents and working with data. For this class, you will have access to RStudio Cloud where you can use R online anywhere throughout the semester. 
+
+You will also use R Studio Desktop/Cloud to work on your assignment, you will use R Markdown to “knit” your assignment/quiz submission in .docx or .pdf format. All files named: Last name_HW1, e.g., Wu_HW1. More instructions will follow in the first few labs. 
+
+***
+
 
