@@ -6,7 +6,7 @@ date: 2021-02-02
 
 Methods covered in this course include exploratory data analysis, correlation and bivariate analysis, linear regression, panel data regression, and probit/logistic regression. Collective and reflective learning will be the key cornerstone for excelling in this class! 
 
-| Class Schedule (<span style="color: red;">*subject to change*</span>) |
+| Class Schedule <span style="color: red">(*subject to change*)</span> |
 |--- |
 | **Week 1, 4-Feb	Course Overview, introduction to Statistics**  |
 | Course expectation and plan for success!   | 
