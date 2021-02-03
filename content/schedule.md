@@ -2,11 +2,11 @@
 date: 2021-02-02
 ---
 
-## Course Schedule {#class_schedule}
+## Course Schedule
 
 Methods covered in this course include exploratory data analysis, correlation and bivariate analysis, linear regression, panel data regression, and probit/logistic regression. Collective and reflective learning will be the key cornerstone for excelling in this class! 
 
-| Class Schedule (*Tentative and subject to change*) |
+| Class Schedule (*subject to change*) |
 |--- |
 | **Week 1, 4-Feb	Course Overview, introduction to Statistics**  |
 | Course expectation and plan for success!   | 
@@ -21,12 +21,12 @@ Methods covered in this course include exploratory data analysis, correlation an
 | Write hypotheses and interpret statistical results  | 
 | Estimate the causal effects of experiments using differences of means  | 
 | Lab 3	Compute t-test, ANOVA test, construct confidence interval for treatment effect  | 
-| **Week 4, 25-Feb	Simple Linear Regression (Ordinary Least Square (OLS) regression)	**  | 
+| **Week 4, 25-Feb	Simple Linear Regression**  | 
 | Understand Best Linear Unbiased Estimator (BLUE) assumptions  | 
 | Interpret and write regression results  | 
 | Lab 4	Compute simple regression models 	| 
 | **Take home quiz 1 (due Mar 3 at 5pm): Study Week 1 to Week 3**   | 
-| **Week 5, 4-Mar	Regression Diagnosis**| 
+| **Week 5, 4-Mar	Regression Diagnosis** | 
 | Diagnose regression results  | 
 | Recognize violation of assumptions  | 
 | Lab 5	Run diagnosis plots		| 
@@ -52,18 +52,18 @@ Methods covered in this course include exploratory data analysis, correlation an
 | Interpret regression results (ratio)  | 
 | Predicted probability   | 
 | Lab 10	Run and plot Probit and logistic regression	 | 
-| **Week 11, 15-Apr	Course Review	**|   
+| **Week 11, 15-Apr	Course Review**|   
 | Group Check-in with Viviana 	| 
 | **Week 12, 22-Apr	Project Presentation** | 
 | **Week 13, 29-Apr	Project Presentation** | 
 | Final project Report due on May 7th Friday by 11:59 PM  | 
 	
 
-## Assignment Schedule {#hw_schedule}
+## Assignment Schedule 
 
 There will be weekly lab assignments. Students will partner up and work on a data analysis project throughout the semester. Submit your assignments and quizzes via [**Gradescope**](https://www.gradescope.com/login). You should submit 2 copies: 1 for self-grading, 1 for official grading. 
 
-*Assignments and Quizzes*  
+### Assignments and Quizzes    
 
 | Assignments/Quizzes  | Submission Due at 5pm  | Self-grading Due at 5pm  | 
 | :--------:|:-------------------------:|:------------------------:| 
@@ -76,7 +76,7 @@ There will be weekly lab assignments. Students will partner up and work on a dat
 | Lab 7 HW  |	Wed 3/24                  |	Tue 3/30 | 
 | Quiz 2    |	Wed 3/31                  |	Tue 4/6 | 
   
-*Policy Research Report*  
+### Policy Research Report  
 
 |      February 2021    |	   March 2021   	| April 2021                | 
 | :--------------------:|:-----------------:|:------------------------: | 
